@@ -1,5 +1,5 @@
 {
   "validKeys": ["KAI","hossame"],
   "getKeyUrl": "https://kaikey.vercel.app",
-  "invalidKeyRedirect": "https://kaikey.vercel.app",
+  "invalidKeyRedirect": "https://kaikey.vercel.app"
 }
